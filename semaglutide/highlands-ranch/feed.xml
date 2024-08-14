@@ -1,0 +1,552 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Privacy Policy</title>
+<meta name="title" content="Privacy Policy">
+<meta name="DC.title" lang="en" content="Privacy Policy">
+<meta name="description" content="Semaglutide Highlands Ranch">
+<meta name="robots" content="index, follow">
+<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<link rel="canonical" href="https://sculpted-md-highlands-ranch/privacy-policy.html">
+<link rel="shortcut icon"  href="img/sculptedmd-logo.jpg"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=DM+Sans:100,200,300,400,500,600,700,800,900&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style type="text/css">
+.hamburger span:nth-child(2){
+top: 8px;
+transition: all 0.15s;
+}
+.wab5c515fe432ef3433d72844a8e2a794 .e9215eb31ae2ec2b2107979c5803b977d{
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding-top: 1.5rem;
+margin-top: 4rem;
+border-top: 2px solid #0e0e0e;
+}
+.hamburger span:nth-child(4){
+top: 16px;
+transition: all 0.2s;
+}
+.navbar-nav li:hover>.dropdown-menu{
+display: block;
+}
+.navbar{
+background: #ffffff;
+transition: none;
+min-height: 77px;
+padding-top: 10px;
+padding-bottom: 9.7px;
+position: relative;
+z-index: 1000;
+box-shadow: 0 0 15.1px 0 rgb(0 0 0 / 10%);
+}
+.y5382812e1e35d60388e6118ac2585a51,.y5382812e1e35d60388e6118ac2585a51:active{
+background-color:#ffffff!important;
+border-color:#000000!important;
+color:#000000!important;
+padding: 10.5px 19.7px!important;
+border-radius: 0;
+font-weight: 700!important;
+letter-spacing: 0px;
+transition-property: all;
+transition-duration: .2s;
+min-width: 200.2px !important;
+}
+a{
+color: black;
+text-decoration: none;
+}
+.nav-link{
+color: #000000!important;
+}
+.x0145fd6f66decd80cbc61dedd20aefce i{
+font-size: 20px;
+padding: 10px;
+}
+.fa-star,.fa-star-half-alt{
+font-size: 14.6px;
+}
+a:hover{
+color:#000000!important;
+background: #ffffff!important;
+opacity: .75;
+text-decoration: none;
+}
+.dropdown-menu{
+max-width:800px;
+overflow-x: auto;
+}
+.hamburger span:nth-child(1){
+top: 0;
+transition: all 0.2s;
+}
+*{
+font-family: 'DM Sans', sans-serif;
+}
+.wab5c515fe432ef3433d72844a8e2a794 ul{
+padding-left: 0px;
+}
+.dropdown .dropdown-menu{
+background: #ffffff;
+position: absolute;
+display: none;
+min-width: 49.6px;
+padding-top: 10.4px;
+box-shadow: 0 0 14.8px 0 rgb(0 0 0 / 10%);
+padding-bottom: 10px;
+text-align: left;
+}
+.hamburger span:nth-child(3){
+top: 8px;
+transition: all 0.15s;
+}
+.wab5c515fe432ef3433d72844a8e2a794 a{
+color:#0e0e0e;
+text-decoration: underline;
+}
+.hamburger span{
+position: absolute;
+right: 0;
+width: 29.6px;
+height: 2px;
+border-right: 5px;
+background-color: #000000;
+}
+.nav-link:hover, .dropdown-item:hover{
+ opacity: .75;
+}
+p, .d83de59a3112fab74b96930aa0dd8eedf{
+font-size:20px;
+line-height: 1.68;
+font-weight: 400;
+}
+a:hover, a:focus, a.active{
+color:#000000!important;
+}
+.wab5c515fe432ef3433d72844a8e2a794 li{
+list-style: none;
+padding-left: 0;
+margin-top: 1.5rem;
+text-align: left;
+color: #000000;
+}
+.dropdown .dropdown-menu .dropdown-item{
+width: auto;
+padding: 0.2em 1.3em 0.2em 1.3em !important;
+}
+.wab5c515fe432ef3433d72844a8e2a794 *{
+color:#0e0e0e;
+font-size:20px!important;
+}
+.wab5c515fe432ef3433d72844a8e2a794{
+padding-top: 4rem;
+padding-bottom: 6rem;
+background-color: #bcd9df;
+bottom: 0;
+z-index: 0;
+width: 100%;
+}
+html{
+scroll-behavior: smooth;
+}
+.dropdown-item{
+display: block;
+width: 100%;
+clear: both;
+font-weight: 400;
+color: #212529;
+text-align: inherit;
+white-space: nowrap;
+background-color: transparent;
+border: 0;
+}
+button.navbar-toggler{
+width: 31.4px;
+height: 17.7px;
+cursor: pointer;
+transition: all 0.2s;
+top: 2rem;
+display: block;
+right: 1.5rem;
+position: absolute;
+}
+.navbar-toggler{
+-webkit-align-self: flex-start;
+-ms-flex-item-align: start;
+align-self: flex-start;
+padding: 0px 0px;
+font-size: 20.1px;
+line-height: 1;
+background: transparent;
+border: 1px solid transparent!important;
+border-radius: 0.25rem;
+}
+.wa440e4c400ee66c28ad5c2f89fc5a6c0{
+font-weight: 700 !important;
+}
+.nav-item .nav-link{
+display: -webkit-flex;
+align-items: center;
+padding: 12.3px 0!important;
+margin: 0px 20.2px!important;
+-webkit-align-items: center;
+}
+.y5382812e1e35d60388e6118ac2585a51:hover, .y5382812e1e35d60388e6118ac2585a51:focus, .y5382812e1e35d60388e6118ac2585a51.focus, .y5382812e1e35d60388e6118ac2585a51.active{
+color: #ffffff !important;
+background-color: #000000 !important;
+border-color: #000000 !important;
+}
+</style>
+</head>
+<body>
+<nav class="navbar-expand-lg navbar px-md-5">
+<a class="navbar-brand" href="https://sculpted-md-highlands-ranch/index.html"  > 
+<img alt="" src="img/sculptedmd-logo.jpg" width="100px" >
+</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<div class="hamburger"><span></span><span></span><span></span><span></span></div>
+</button>
+<div class="navbar-collapse collapse" id="navbarSupportedContent">
+<ul class="navbar-nav ml-auto">
+<li class="nav-item dropdown">
+<a class="nav-link d83de59a3112fab74b96930aa0dd8eedf dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false"><b>Services</b></a>
+<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/index.html" >Semaglutide Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/obesity-solution-highlands-ranch.html" >Obesity Solution Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/diabetes-control-strategies-highlands-ranch.html" >Diabetes Control Strategies Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/semaglutide-patient-information-highlands-ranch.html" >Semaglutide Patient Information Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/weight-loss-strategies-highlands-ranch.html" >Weight Loss Strategies Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/semaglutide-diet-plan-highlands-ranch.html" >Semaglutide Diet Plan Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/diabetes-management-plan-highlands-ranch.html" >Diabetes Management Plan Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/semaglutide-and-weight-loss-study-highlands-ranch.html" >Semaglutide And Weight Loss Study Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/obesity-treatments-highlands-ranch.html" >Obesity Treatments Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/weight-loss-program-highlands-ranch.html" >Weight Loss Program Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/semaglutide-treatment-plan-highlands-ranch.html" >Semaglutide Treatment Plan Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/diabetes-control-medications-highlands-ranch.html" >Diabetes Control Medications Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/semaglutide-prescription-plan-highlands-ranch.html" >Semaglutide Prescription Plan Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/weight-loss-success-stories-highlands-ranch.html" >Weight Loss Success Stories Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/semaglutide-dosage-instructions-highlands-ranch.html" >Semaglutide Dosage Instructions Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/diabetes-diet-control-highlands-ranch.html" >Diabetes Diet Control Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/semaglutide-and-exercise-plan-highlands-ranch.html" >Semaglutide And Exercise Plan Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/obesity-risk-reduction-highlands-ranch.html" >Obesity Risk Reduction Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/diabetes-care-providers-highlands-ranch.html" >Diabetes Care Providers Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/semaglutide-and-diet-control-highlands-ranch.html" >Semaglutide And Diet Control Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/weight-loss-solutions-highlands-ranch.html" >Weight Loss Solutions Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/semaglutide-patient-reviews-highlands-ranch.html" >Semaglutide Patient Reviews Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/diabetes-control-diet-plan-highlands-ranch.html" >Diabetes Control Diet Plan Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/semaglutide-weight-control-methods-highlands-ranch.html" >Semaglutide Weight Control Methods Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/obesity-control-strategies-highlands-ranch.html" >Obesity Control Strategies Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/diabetes-medication-providers-highlands-ranch.html" >Diabetes Medication Providers Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/semaglutide-and-obesity-study-highlands-ranch.html" >Semaglutide And Obesity Study Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/weight-loss-treatments-highlands-ranch.html" >Weight Loss Treatments Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/semaglutide-for-weight-control-highlands-ranch.html" >Semaglutide For Weight Control Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/diabetes-medication-effectiveness-highlands-ranch.html" >Diabetes Medication Effectiveness Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/semaglutide-healthcare-professionals-highlands-ranch.html" >Semaglutide Healthcare Professionals Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/weight-loss-clinics-highlands-ranch.html" >Weight Loss Clinics Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/semaglutide-for-diabetes-control-highlands-ranch.html" >Semaglutide For Diabetes Control Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/diabetes-diet-highland-ranch.html" >Diabetes Diet Highland Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/semaglutide-and-type-2-diabetes-highlands-ranch.html" >Semaglutide And Type 2 Diabetes Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/obesity-care-providers-highlands-ranch.html" >Obesity Care Providers Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/diabetes-self-management-highlands-ranch.html" >Diabetes Self-management Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/semaglutide-for-weight-loss-efficacy-highlands-ranch.html" >Semaglutide For Weight Loss Efficacy Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/weight-loss-diet-highlands-ranch.html" >Weight Loss Diet Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/semaglutide-for-diabetes-prevention-highlands-ranch.html" >Semaglutide For Diabetes Prevention Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/diabetes-discussion-highlands-ranch.html" >Diabetes Discussion Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/semaglutide-and-insulin-resistance-highlands-ranch.html" >Semaglutide And Insulin Resistance Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/obese-care-plans-highlands-ranch.html" >Obese Care Plans Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/diabetes-treatment-effectiveness-highlands-ranch.html" >Diabetes Treatment Effectiveness Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/semaglutide-and-weight-reduction-highlands-ranch.html" >Semaglutide And Weight Reduction Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/weight-loss-diet-planning-highlands-ranch.html" >Weight Loss Diet Planning Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/semaglutide-for-diabetes-management-highlands-ranch.html" >Semaglutide For Diabetes Management Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/diabetes-drug-efficacy-highlands-ranch.html" >Diabetes Drug Efficacy Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/semaglutide-and-obesity-management-highlands-ranch.html" >Semaglutide And Obesity Management Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/weight-loss-support-highlands-ranch.html" >Weight Loss Support Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/semaglutide-for-insulin-control-highlands-ranch.html" >Semaglutide For Insulin Control Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/diabetes-self-care-highlands-ranch.html" >Diabetes Self-care Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/semaglutide-and-weight-management-highlands-ranch.html" >Semaglutide And Weight Management Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/weight-loss-exercises-highlands-ranch.html" >Weight Loss Exercises Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/semaglutide-for-metabolic-control-highlands-ranch.html" >Semaglutide For Metabolic Control Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/diabetes-diet-counseling-highlands-ranch.html" >Diabetes Diet Counseling Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/semaglutide-and-diabetes-prevention-highlands-ranch.html" >Semaglutide And Diabetes Prevention Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/obesity-management-strategies-highlands-ranch.html" >Obesity Management Strategies Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/diabetes-medication-selection-highlands-ranch.html" >Diabetes Medication Selection Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/semaglutide-and-obesity-prevention-highlands-ranch.html" >Semaglutide And Obesity Prevention Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/weight-loss-motivation-highlands-ranch.html" >Weight Loss Motivation Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/semaglutide-for-insulin-efficiency-highlands-ranch.html" >Semaglutide For Insulin Efficiency Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/diabetes-medication-comparison-highlands-ranch.html" >Diabetes Medication Comparison Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/semaglutide-and-diabetes-control-highlands-ranch.html" >Semaglutide And Diabetes Control Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/obesity-prevention-plans-highlands-ranch.html" >Obesity Prevention Plans Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/diabetes-medication-dosage-highlands-ranch.html" >Diabetes Medication Dosage Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/semaglutide-and-metabolic-syndrome-highlands-ranch.html" >Semaglutide And Metabolic Syndrome Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/weight-loss-counselors-highlands-ranch.html" >Weight Loss Counselors Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/semaglutide-for-glycemic-control-highlands-ranch.html" >Semaglutide For Glycemic Control Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/diabetes-medication-reviews-highlands-ranch.html" >Diabetes Medication Reviews Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/semaglutide-and-weight-loss-success-highlands-ranch.html" >Semaglutide And Weight Loss Success Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/obesity-management-clinics-highlands-ranch.html" >Obesity Management Clinics Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/diabetes-medication-recommendation-highlands-ranch.html" >Diabetes Medication Recommendation Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/semaglutide-and-weight-management-strategy-highlands-ranch.html" >Semaglutide And Weight Management Strategy Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/weight-loss-success-rate-highlands-ranch.html" >Weight Loss Success Rate Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/semaglutide-for-glucose-control-highlands-ranch.html" >Semaglutide For Glucose Control Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/diabetes-medication-cost-highlands-ranch.html" >Diabetes Medication Cost Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/semaglutide-and-weight-management-clinics-highlands-ranch.html" >Semaglutide And Weight Management Clinics Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/obesity-clinics-in-highlands-ranch.html" >Obesity Clinics In Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/diabetes-medication-guidance-highlands-ranch.html" >Diabetes Medication Guidance Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/semaglutide-and-weight-loss-medication-highlands-ranch.html" >Semaglutide And Weight Loss Medication Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/weight-loss-methods-highlands-ranch.html" >Weight Loss Methods Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/semaglutide-for-glucose-efficiency-highlands-ranch.html" >Semaglutide For Glucose Efficiency Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/diabetes-medication-safety-highlands-ranch.html" >Diabetes Medication Safety Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/semaglutide-and-obesity-medication-highlands-ranch.html" >Semaglutide And Obesity Medication Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/obesity-doctors-highlands-ranch.html" >Obesity Doctors Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/diabetes-medication-choices-highlands-ranch.html" >Diabetes Medication Choices Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/semaglutide-and-diabetes-medication-highlands-ranch.html" >Semaglutide And Diabetes Medication Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/weight-loss-guidance-highlands-ranch.html" >Weight Loss Guidance Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/semaglutide-for-glucose-management-highlands-ranch.html" >Semaglutide For Glucose Management Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/diabetes-medication-options-highlands-ranch.html" >Diabetes Medication Options Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/semaglutide-and-obesity-management-clinics-highlands-ranch.html" >Semaglutide And Obesity Management Clinics Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/obesity-support-highlands-ranch.html" >Obesity Support Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/diabetes-medication-strategies-highlands-ranch.html" >Diabetes Medication Strategies Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/semaglutide-and-diabetes-treatment-highlands-ranch.html" >Semaglutide And Diabetes Treatment Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/weight-loss-doctors-highlands-ranch.html" >Weight Loss Doctors Highlands Ranch</a>
+<a class="dropdown-item d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/semaglutide-for-glycemic-efficiency-highlands-ranch.html" >Semaglutide For Glycemic Efficiency Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/diabetes-medication-alternatives-highlands-ranch.html" >Diabetes Medication Alternatives Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/semaglutide-and-weight-management-success-highlands-ranch.html" >Semaglutide And Weight Management Success Highlands Ranch</a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf dropdown-item" href="https://sculpted-md-highlands-ranch/obesity-treatment-success-highlands-ranch.html" >Obesity Treatment Success Highlands Ranch</a>
+</div>
+</li>
+<li class="nav-item">
+<a class="bb305459664810d72148437eb569c423c btn y5382812e1e35d60388e6118ac2585a51" href="https://www.sculptedmd.com/" rel="nofollow">Contact Us</a>
+</li>
+</ul>
+</div>
+</nav>
+<div>
+<section class="container">
+<h1>Privacy Policy for Sculpted MD Highlands Ranch - Testosterone, Botox and Phentermine Clinic</h1>
+<p>At Sculpted MD Highlands Ranch - Testosterone, Botox and Phentermine Clinic one of our main priorities is the privacy of our visitors.
+ This Privacy Policy document contains types of information that is collected and recorded by Sculpted MD Highlands Ranch - Testosterone, Botox and Phentermine Clinic and how we use it. You can check out our main website here: https://www.sculptedmd.com/</p>
+<p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
+<p>This Privacy Policy only applies to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Sculpted MD Highlands Ranch - Testosterone, Botox and Phentermine Clinic. This policy is not applicable to any information collected offline or via channels other than this website. </p>
+<h2>Consent</h2>
+<p>By using our website, you hereby consent to our Privacy Policy and agree to its terms.</p>
+<h2>Information we collect</h2>
+<p>The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.</p>
+<p>If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.</p>
+<p>When you register for an Account, we may ask for your contact information, including items such as name, Sculpted MD Highlands Ranch - Testosterone, Botox and Phentermine Clinic, address, email address, and telephone number.</p>
+<h2>How we use your information</h2>
+<p>We use the information we collect in various ways, including to:</p>
+<ul>
+<li>Provide, operate, and maintain our website</li>
+<li>Improve, personalize, and expand our website</li>
+<li>Understand and analyze how you use our website</li>
+<li>Develop new products, services, features, and functionality</li>
+<li>Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the website, and for marketing and promotional purposes</li>
+<li>Send you emails</li>
+<li>Find and prevent fraud</li>
+</ul>
+<h2>Log Files</h2>
+<p>Sculpted MD Highlands Ranch - Testosterone, Botox and Phentermine Clinic follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.</p>
+<h2>Advertising Partners Privacy Policies</h2>
+<P>You may consult this list to find the Privacy Policy for each of the advertising partners of Sculpted MD Highlands Ranch - Testosterone, Botox and Phentermine Clinic.</p>
+<p>Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Sculpted MD Highlands Ranch - Testosterone, Botox and Phentermine Clinic, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.</p>
+<p>Note that Sculpted MD Highlands Ranch - Testosterone, Botox and Phentermine Clinic has no access to or control over these cookies that are used by third-party advertisers.</p>
+<h2>Third Party Privacy Policies</h2>
+<p>Sculpted MD Highlands Ranch - Testosterone, Botox and Phentermine Clinic's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. </p>
+<p>You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.</p>
+<h2>CCPA Privacy Rights (Do Not Sell My Personal Information)</h2>
+<p>Under the CCPA, among other rights, California consumers have the right to:</p>
+<p>Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.</p>
+<p>Request that a business delete any personal data about the consumer that a business has collected.</p>
+<p>Request that a business that sells a consumer's personal data, not sell the consumer's personal data.</p>
+<p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.</p>
+<h2>GDPR Data Protection Rights</h2>
+<p>We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:</p>
+<p>The right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service.</p>
+<p>The right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.</p>
+<p>The right to erasure – You have the right to request that we erase your personal data, under certain conditions.</p>
+<p>The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.</p>
+<p>The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.</p>
+<p>The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.</p>
+<p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.</p>
+<h2>Children's Information</h2>
+<p>Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.</p>
+<p>Sculpted MD Highlands Ranch - Testosterone, Botox and Phentermine Clinic does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
+<h2>Publisher</h2>
+<p>
+This website is owned and published by:
+Sculpted MD Highlands Ranch - Testosterone, Botox and Phentermine Clinic</br>
++17207355545</br>
+5690 County Line Pl C</br>
+Highlands Ranch</br>
+CO</br>
+https://www.sculptedmd.com/</br>
+info@sculptedmd.com</br>
+</p>
+</section>
+</div>
+<footer class="wab5c515fe432ef3433d72844a8e2a794">
+<div class="container"><div class="row"><div class="col-lg-6">
+<h5 class="w2d182b9d3c96e21782e8e13e3ded6256 t4749795c39f86ef6fb506c4e64517af6 mb-0 wa440e4c400ee66c28ad5c2f89fc5a6c0">Sculpted MD Highlands Ranch - Testosterone, Botox and Phentermine Clinic</h5>
+<ul class="d83de59a3112fab74b96930aa0dd8eedf">
+<li> 5690 County Line Pl C</li>
+<li> info@sculptedmd.com</li>
+<li>+17207355545</li> 
+<li>City : Highlands Ranch</li>
+<li>State : CO</li>
+<li>Zip : 80126</li>
+<li><a href="https://www.google.com/maps?cid=15608713872900469503" rel="nofollow"> Google Business Profile</a></li>
+<li>Company Website : <a class="text-break" href="https://www.sculptedmd.com/" rel="nofollow">https://www.sculptedmd.com/</a></li>
+</ul> 
+</div><div class="col-lg-3">
+<ul class="mt-0">
+<li><style type="text/css">body 
+  background: #444;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  font-family: 'Roboto', sans-serif;
+  margin:0;
+  padding:0;
+
+
+ul 
+  list-style-type: none;
+
+
+#Newsfeed 
+  max-width: 1350px;
+  margin: 0 auto;
+  padding-top: 25px;
+  padding-bottom: 65px;
+
+
+.RSScard 
+  padding: 20px 25px;
+
+  margin-left: 20px;
+  margin-top: 20px;
+
+  min-width: 200px;
+  max-width: 200px;
+  min-height: 225px;
+
+  opacity: 0.875;
+  background-color: #202B33;
+
+  color: #388E3C;
+  font-size: 0.85em;
+  text-align: center;
+  overflow: hidden;
+  box-shadow: 0 0 8px rgba(0,0,0, 0.25);
+  float:left;
+  
+  -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+
+
+.RSScard a 
+  text-decoration: none;
+  color: #ededed;
+  font-size: 0.75em;
+  font-weight: 300;
+  opacity: 1;
+
+
+.RSScard:hover 
+  opacity: 1;
+  background-color: #202B33;
+
+</style>
+<ul id="Newsfeed">
+	<li class="RSScard">
+	<p>&nbsp;</p>
+
+	<h2><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxQZmJWVFRpU1lVWlUxcW11NTdqUTQ2dS1uUnJRSmEwSGZsQ2lfRTZuV2JIVmEyNHgyRTktTjdjZS1YMG1MUElrNmhsU3dSSlRBSjVxYVliYzZWSktBY0w5Qy0wWWl6a2VyOE5YU1lXZ00xMWYzaWh3ZGVHek84UEpPaGt5emYwS3dubGg4eFVVLXY3dTdvcHYzRlhGWHJoN0hzdTU40gGoAUFVX3lxTE1scDNGd19aZ3VvemxTWGctXzBHWFpWNUJRRWNzd041azlKUFkySnVLdl83elFQYlI1QzVlOTI4ekNBRUEtVUFiZE5jVktQODljQlJwcml2R2QtSnRwakZrazJlVC1tTmRGSzlsRlRTellublVSSmF3ejgtQWVKUXhHbEJjSGRqRmdGTE5iWnpWOVQ2LTlaMFBjS3hwRm5QMTJFWkJRdGIwSg?oc=5" target="_blank">Colorado man arrested after roommate says he fired at him in Highlands Ranch - CBS Colardo</a></h2>
+
+	<p>&nbsp;</p>
+	<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxQZmJWVFRpU1lVWlUxcW11NTdqUTQ2dS1uUnJRSmEwSGZsQ2lfRTZuV2JIVmEyNHgyRTktTjdjZS1YMG1MUElrNmhsU3dSSlRBSjVxYVliYzZWSktBY0w5Qy0wWWl6a2VyOE5YU1lXZ00xMWYzaWh3ZGVHek84UEpPaGt5emYwS3dubGg4eFVVLXY3dTdvcHYzRlhGWHJoN0hzdTU40gGoAUFVX3lxTE1scDNGd19aZ3VvemxTWGctXzBHWFpWNUJRRWNzd041azlKUFkySnVLdl83elFQYlI1QzVlOTI4ekNBRUEtVUFiZE5jVktQODljQlJwcml2R2QtSnRwakZrazJlVC1tTmRGSzlsRlRTellublVSSmF3ejgtQWVKUXhHbEJjSGRqRmdGTE5iWnpWOVQ2LTlaMFBjS3hwRm5QMTJFWkJRdGIwSg?oc=5" target="_blank">Colorado man arrested after roommate says he fired at him in Highlands Ranch</a>&nbsp;&nbsp;<font color="#6f6f6f">CBS Colardo</font></li>
+	<li class="RSScard">
+	<p>&nbsp;</p>
+
+	<h2><a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNVlrclU3WTRwM05ZbDNMZ2dOTkRQZHp2a1ByTW93QVhtMGxXbHJKQkZOX1IwdVkxLVY2RU1QYk0xb085M1B4U04yM05uMFZpczE2QmIwUEUxUnpMS0dITU41ajJqMU1DSnpvV1h0UE1ONDU4Q0RZVUU2WXRrUVdHMG91VmU4R2ZpRXJXZmtiOEJIcXZHQ1g2SjMzUWFpTHV3TWJUaUdwRUJNXzBnMWlEbFQ2TUszQzlhYm5QWXFfeGJVdkZaOEJ0U2FwRTliR184MVVqNnNtNWhCMllURlhzbzVvZDExREtP?oc=5" target="_blank">Douglas County deputies patrolling dangerous intersections in Highlands Ranch - 9News.com KUSA</a></h2>
+
+	<p>&nbsp;</p>
+	<a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNVlrclU3WTRwM05ZbDNMZ2dOTkRQZHp2a1ByTW93QVhtMGxXbHJKQkZOX1IwdVkxLVY2RU1QYk0xb085M1B4U04yM05uMFZpczE2QmIwUEUxUnpMS0dITU41ajJqMU1DSnpvV1h0UE1ONDU4Q0RZVUU2WXRrUVdHMG91VmU4R2ZpRXJXZmtiOEJIcXZHQ1g2SjMzUWFpTHV3TWJUaUdwRUJNXzBnMWlEbFQ2TUszQzlhYm5QWXFfeGJVdkZaOEJ0U2FwRTliR184MVVqNnNtNWhCMllURlhzbzVvZDExREtP?oc=5" target="_blank">Douglas County deputies patrolling dangerous intersections in Highlands Ranch</a>&nbsp;&nbsp;<font color="#6f6f6f">9News.com KUSA</font></li>
+	<li class="RSScard">
+	<p>&nbsp;</p>
+
+	<h2><a href="https://news.google.com/rss/articles/CBMifEFVX3lxTE5PRXEzY0FIZTRVeHZhdmpzTjNRV2pHUFlYbVJTams5MDE0Y1BxdmRWaktSZnhsLVkxUDZ4TE1KRGhpX0hZOVFxc0lyWFhNN1Zsal9CNE9JMURHQ2ZPWXlwTVg2ZmhES0VRZzZTdWZBLWFQNkN1YVFqZF9lU3Q?oc=5" target="_blank">Highlands Ranch Shopping Center Sells for $26.6M - Mile High CRE</a></h2>
+
+	<p>&nbsp;</p>
+	<a href="https://news.google.com/rss/articles/CBMifEFVX3lxTE5PRXEzY0FIZTRVeHZhdmpzTjNRV2pHUFlYbVJTams5MDE0Y1BxdmRWaktSZnhsLVkxUDZ4TE1KRGhpX0hZOVFxc0lyWFhNN1Zsal9CNE9JMURHQ2ZPWXlwTVg2ZmhES0VRZzZTdWZBLWFQNkN1YVFqZF9lU3Q?oc=5" target="_blank">Highlands Ranch Shopping Center Sells for $26.6M</a>&nbsp;&nbsp;<font color="#6f6f6f">Mile High CRE</font></li>
+	<li class="RSScard">
+	<p>&nbsp;</p>
+
+	<h2><a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTFB3bm1ITWsxVkd2NXJOa3ZzUlpROUdRcGRKX05JelhFakJqT1BwdEZsbnhYaGY2aGg4UmRmNnN2czNNZFRiTkhRb0o2V3ZWdXBwUGVOWUpMeE85eW9NMTBMTFpB?oc=5" target="_blank">Obituary for Jason Bye | May 7, 2024 - DuBore Funeral Home</a></h2>
+
+	<p>&nbsp;</p>
+	<a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTFB3bm1ITWsxVkd2NXJOa3ZzUlpROUdRcGRKX05JelhFakJqT1BwdEZsbnhYaGY2aGg4UmRmNnN2czNNZFRiTkhRb0o2V3ZWdXBwUGVOWUpMeE85eW9NMTBMTFpB?oc=5" target="_blank">Obituary for Jason Bye | May 7, 2024</a>&nbsp;&nbsp;<font color="#6f6f6f">DuBore Funeral Home</font></li>
+	<li class="RSScard">
+	<p>&nbsp;</p>
+
+	<h2><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxOdlp4ZWoyQmJ3UEhGbHVpYzdKMXV6Qk94UjlBS0pvS0RJako3UGZ0V1owc0x4T0NKMUNFZXRtQmFXSXRsNVZ0Vkc2dWlwcDZZQUJKRENwRmdDMV9HUGExUW9PQkNVM2t4MGNkTEZSTjhKOXJmbFR4c0trSVFhQW5fZ25FSEIyc0FJTkFKUm5uc3RJQzBZc081d1lwUzdBVlR5WHNOLXBybWI1SDNRc1BpMl9weklMSnNXZ0ZJVW1n?oc=5" target="_blank">Deputies plan aggressive crackdown on illegal fireworks in Highlands Ranch - Colorado Community Media</a></h2>
+
+	<p>&nbsp;</p>
+	<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxOdlp4ZWoyQmJ3UEhGbHVpYzdKMXV6Qk94UjlBS0pvS0RJako3UGZ0V1owc0x4T0NKMUNFZXRtQmFXSXRsNVZ0Vkc2dWlwcDZZQUJKRENwRmdDMV9HUGExUW9PQkNVM2t4MGNkTEZSTjhKOXJmbFR4c0trSVFhQW5fZ25FSEIyc0FJTkFKUm5uc3RJQzBZc081d1lwUzdBVlR5WHNOLXBybWI1SDNRc1BpMl9weklMSnNXZ0ZJVW1n?oc=5" target="_blank">Deputies plan aggressive crackdown on illegal fireworks in Highlands Ranch</a>&nbsp;&nbsp;<font color="#6f6f6f">Colorado Community Media</font></li>
+	<li class="RSScard">
+	<p>&nbsp;</p>
+
+	<h2><a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxQNmltLUk0eElMUmNkbnM3TFBneG9LNnJLdC1GOF9lWlRCRG9yV1JfMGhWam4zaTBDV0FYVzJfcllHUXlRYUdUT2V2c2RlZ0ZsTV9PRHloZ0FQSS04MVZkN0UwX2ZSZE1xMGdoSjVNYmFNd1E3WUEzWENDeWo5aHMzQkM5UjZ5cjJTQncxLXRkYU84SmPSAZgBQVVfeXFMUDA4VWVTX3MyWVEtMjBHaWdKNlhvT0lVVnNpYmcyaHBOZ24wdDlBdV9aNUt4RXdVYnNHNlN3Y2lyOWJoNi1mVXFibnAxZm1vVUF2OGlsNUZwdzRTYUNhV3ZRUWhFZE1HLU9JYTF1Z0JMQkNyOU1UXzB0Qmg3eUtOcno0QUcxc2ZTWVN2aFlicFdRNFZIcDZaUWI?oc=5" target="_blank">Watch: Bear spotted in Highlands Ranch neighborhoods, prompting warnings - FOX 31 Denver</a></h2>
+
+	<p>&nbsp;</p>
+	<a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxQNmltLUk0eElMUmNkbnM3TFBneG9LNnJLdC1GOF9lWlRCRG9yV1JfMGhWam4zaTBDV0FYVzJfcllHUXlRYUdUT2V2c2RlZ0ZsTV9PRHloZ0FQSS04MVZkN0UwX2ZSZE1xMGdoSjVNYmFNd1E3WUEzWENDeWo5aHMzQkM5UjZ5cjJTQncxLXRkYU84SmPSAZgBQVVfeXFMUDA4VWVTX3MyWVEtMjBHaWdKNlhvT0lVVnNpYmcyaHBOZ24wdDlBdV9aNUt4RXdVYnNHNlN3Y2lyOWJoNi1mVXFibnAxZm1vVUF2OGlsNUZwdzRTYUNhV3ZRUWhFZE1HLU9JYTF1Z0JMQkNyOU1UXzB0Qmg3eUtOcno0QUcxc2ZTWVN2aFlicFdRNFZIcDZaUWI?oc=5" target="_blank">Watch: Bear spotted in Highlands Ranch neighborhoods, prompting warnings</a>&nbsp;&nbsp;<font color="#6f6f6f">FOX 31 Denver</font></li>
+</ul>
+</li> 
+</ul>
+</div></div><div class="row">
+<div class="col-12">
+<div class="e9215eb31ae2ec2b2107979c5803b977d">
+<div><a href="https://sculpted-md-highlands-ranch/sitemap.html" rel="nofollow">Sitemap | </a>
+<a class="d83de59a3112fab74b96930aa0dd8eedf" href="https://sculpted-md-highlands-ranch/privacy-policy.html" rel="nofollow">Privacy Policy</a> 
+</div><div>
+<p>Follow us</p>
+<a href="https://www.facebook.com/sculptedMD/" class="x0145fd6f66decd80cbc61dedd20aefce facebook" rel="nofollow"><i class="fa fa-facebook"></i></a>
+<a href="https://www.linkedin.com/company/sculpted-md" class="x0145fd6f66decd80cbc61dedd20aefce pinterest" rel="nofollow"><i class="fa fa-linkedin"></i></a>
+<a href="https://www.instagram.com/sculptedmd/" class="x0145fd6f66decd80cbc61dedd20aefce google-plus" rel="nofollow"><i class="fa fa-instagram"></i></a>
+</div></div>
+</div>
+</div></div>
+</footer></body>
+<script type="text/javascript">
+document.addEventListener('DOMContentLoaded', function() {
+var dropdowns = document.querySelectorAll('.dropdown-hover');
+function showDropdown() {
+var dropdownMenu = this.querySelector('.dropdown-menu');
+dropdownMenu.style.display = 'block';
+}
+function hideDropdown() {
+var dropdownMenu = this.querySelector('.dropdown-menu');
+dropdownMenu.style.display = 'none';
+}
+function handleClick(event) {
+var target = event.target;
+window.location.href = target.getAttribute('href');
+}
+dropdowns.forEach(function(dropdown) {
+dropdown.addEventListener('mouseenter', showDropdown);
+dropdown.addEventListener('mouseleave', hideDropdown);
+var dropdownMenu = dropdown.querySelector('.dropdown-toggle');
+dropdownMenu.addEventListener('click', handleClick);
+});
+});
+</script>
